@@ -1,0 +1,7 @@
+sentence_transformers
+lucknowllm 
+numpy
+python-dotenv
+llama_index
+
+PyPDF2

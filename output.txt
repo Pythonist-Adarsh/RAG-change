@@ -1,0 +1,84 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAREER  OBJECTIVE  
+I Intend  to build a career  with leading 
+corporate  of hi-tech environment  with 
+committed and dedicated people, 
+which will help me to explore and 
+realize  my potentials  and where  I can 
+make effective use of my skill to 
+deliver value added services to the 
+organization.  
+CONTACT  
+PHONE:  7505965253  
+ 
+EMAIL:  Adarshtiwari2412@gmail.com  
+ 
+PERSONAL  DETAILS  
+Date  of Birth:  24th December , 1999.  
+Language:  English,  Hindi . 
+Address:  D/S 1026 sec D LDA Calony   
+Kanpur Road Lucknow   - 226012 . 
+ 
+ 
+SOFTWARE  SKILLS  
+ Python , Machine Learning , Excel, 
+Power BI and MySQL . 
+ Capable of adapting to new 
+technology.  
+KEY RESULTS  AREA 
+ Data collection and cleansing , 
+Data Analysis and visualization  . 
+ Report Generation and Presentation  
+ Learning and Skill Development  Adarsh Tiwari  
+Data Analytics  
+ 
+EDUCATION   
+B.Tech |Computer Science Engineering  
+AKTU University |  
+Diploma  CSE | Percentage/Grade  8.2 CGPA  
+BTEUP | November  2021  
+Intermediate|  Percentage/Grade  72 % 
+CBSE |  July 2018  
+High School| Percentage/Grade 8.6  CGPA  
+CBSE  | March  2016 
+Projects   
+Global Super Store  Dashboard  | Power BI  
+ Develop a structured and comprehensive dashboard for the Global 
+Super Store data using Power BI, incorporating key metrics such as 
+total sales, profit, and orders for an overview of performance  . 
+ Utilize interactive visualizations like maps, stacked column charts, 
+and pie charts to analyze sale s performance by region, product 
+category, and customer segment, providing stakeholders with 
+actionable insights  
+ Implement profitability analysis tools such as waterfall charts 
+and tree maps to dissect profit margins by product, region, and 
+customer segmen t, facilitating strategic decision -making . 
+ Integrate inventory management visuals like line charts and gauges 
+to track inventory levels, turnover rates, and stock -outs, optimizing 
+inventory management practices.  
+ Employ advanced analytics techniques including predictive modeling 
+to forecast future sales trends and identify emerging market 
+dynamics, enhancing decision -making capabilities.  
+ 
+Amazon Dashboard | Power Bi  
+ Developed an interactive and insightful dashboard using Power 
+BI to analyze Amazon dat aset, showcasing key metrics and 
+trends in sales, profitability, and inventory management.  
+ Utilized Power BI's advanced visualization capabilities to create 
+dynamic charts, graphs, and maps, providing stakeholders with 
+actionable insights into Amazon's sal es performance across 
+different regions and product categories  
+ Integrated real -time data updates to ensure that the 
+dashboard reflects the latest information, enabling timely 
+decision -making and strategic planning.  
+ Implemented drill -down functionality to a llow users to explore 
+data at a granular level, facilitating deeper analysis and 
+understanding of Amazon's business operations . 
